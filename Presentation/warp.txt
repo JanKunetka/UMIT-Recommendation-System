@@ -1,0 +1,8 @@
+1: Intro
+2: Introduction to the problem
+3: Technology Used (Unity & ML-Agents)
+4: More about ML-Agents
+5: How the project looks
+6: The results
+7: What to grasp from the results
+
