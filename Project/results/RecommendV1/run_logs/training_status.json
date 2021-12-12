@@ -1,0 +1,47 @@
+{
+    "RecommendAsset": {
+        "checkpoints": [
+            {
+                "steps": 90792,
+                "file_path": "results\\RecommendV1\\RecommendAsset\\RecommendAsset-90792.onnx",
+                "reward": -2.5378355291968346,
+                "creation_time": 1638018107.631393,
+                "auxillary_file_paths": [
+                    "results\\RecommendV1\\RecommendAsset\\RecommendAsset-90792.pt"
+                ]
+            },
+            {
+                "steps": 111298,
+                "file_path": "results\\RecommendV1\\RecommendAsset\\RecommendAsset-111298.onnx",
+                "reward": -3.0199998378753663,
+                "creation_time": 1638031532.3466883,
+                "auxillary_file_paths": [
+                    "results\\RecommendV1\\RecommendAsset\\RecommendAsset-111298.pt"
+                ]
+            },
+            {
+                "steps": 152513,
+                "file_path": "results\\RecommendV1\\RecommendAsset\\RecommendAsset-152513.onnx",
+                "reward": null,
+                "creation_time": 1638031919.9918962,
+                "auxillary_file_paths": [
+                    "results\\RecommendV1\\RecommendAsset\\RecommendAsset-152513.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 152513,
+            "file_path": "results\\RecommendV1\\RecommendAsset.onnx",
+            "reward": null,
+            "creation_time": 1638031919.9918962,
+            "auxillary_file_paths": [
+                "results\\RecommendV1\\RecommendAsset\\RecommendAsset-152513.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

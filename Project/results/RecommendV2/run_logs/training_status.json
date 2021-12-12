@@ -1,0 +1,29 @@
+{
+    "RecommendAsset": {
+        "checkpoints": [
+            {
+                "steps": 18991,
+                "file_path": "results\\RecommendV2\\RecommendAsset\\RecommendAsset-18991.onnx",
+                "reward": -0.3830508846079838,
+                "creation_time": 1638032234.2566283,
+                "auxillary_file_paths": [
+                    "results\\RecommendV2\\RecommendAsset\\RecommendAsset-18991.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 18991,
+            "file_path": "results\\RecommendV2\\RecommendAsset.onnx",
+            "reward": -0.3830508846079838,
+            "creation_time": 1638032234.2566283,
+            "auxillary_file_paths": [
+                "results\\RecommendV2\\RecommendAsset\\RecommendAsset-18991.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
